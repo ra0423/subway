@@ -2,5 +2,3 @@ streamlit
 pandas
 google-genai
 supabase
-matplotlib
-seaborn
