@@ -9,9 +9,10 @@
 
 웹사이트 링크 [https://easy2safehome.streamlit.app/](https://subway-auc3tpflapcfs9nqeuogcl.streamlit.app/)
 🤖 AI 프롬프트 링크: https://snowboard.sookmyung.ac.kr/mod/assign/view.php?id=2006011&action=view (스노보드로 연결)
+
 📂 데이터
-•	시간별혼잡도.csv: 호선, 역번호, 출발역, 5시~25시별 지하철 혼잡도 (정량 데이터)
-•	노인이용.csv: 역번호, 역명, 승하차 구분, 6시~25시별 우대권(노인) 이용 승객 수 (정량 데이터)
+•	시간별혼잡도.csv: 호선, 역번호, 출발역, 5시-25시별 지하철 혼잡도 (정량 데이터)
+•	노인이용.csv: 역번호, 역명, 승하차 구분, 6-25시별 우대권(노인) 이용 승객 수 (정량 데이터)
 •	역세권.csv: 역번호, 역주변 주요 시설/출구 정보, 호선, 역명 (텍스트 데이터)
 
 
